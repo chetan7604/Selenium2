@@ -1,0 +1,5 @@
+2023-10-10 12:53:05 INFO  FacebookTest_DDF:30 - open browser
+2023-10-10 12:53:13 INFO  FacebookTest_DDF:33 - login into facebook
+2023-10-10 12:53:14 INFO  FacebookTest_DDF:38 - verify username
+2023-10-10 12:53:29 INFO  FacebookTest_DDF:43 - logout from facebook
+2023-10-10 12:53:36 INFO  FacebookTest_DDF:46 - closing browser

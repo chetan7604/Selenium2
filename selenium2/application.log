@@ -1,0 +1,19 @@
+2023-10-10 12:45:39 INFO  FacebookTest_DDF:30 - open browser
+2023-10-10 12:45:43 INFO  FacebookTest_DDF:33 - login into application
+2023-10-10 12:45:57 INFO  FacebookTest_DDF:38 - verify username
+2023-10-10 12:46:10 INFO  FacebookTest_DDF:43 - logout from application
+2023-10-10 12:46:23 INFO  FacebookTest_DDF:46 - closing browser
+2023-10-10 12:51:31 INFO  FacebookTest_DDF:30 - open browser
+2023-10-10 12:51:36 INFO  FacebookTest_DDF:33 - login into facebook
+2023-10-10 12:51:38 INFO  FacebookTest_DDF:38 - verify username
+2023-10-10 12:51:52 INFO  FacebookTest_DDF:43 - logout from facebook
+2023-10-10 12:52:00 INFO  FacebookTest_DDF:46 - closing browser
+2023-10-10 12:58:40 INFO  FacebookTest_DDF:30 - open browser
+2023-10-10 12:58:47 INFO  FacebookTest_DDF:33 - login into facebook
+2023-10-10 12:58:48 INFO  FacebookTest_DDF:38 - verify username
+2023-10-10 12:59:03 INFO  FacebookTest_DDF:43 - logout from facebook
+2023-10-10 13:09:03 INFO  FacebookTest_DDF:30 - open browser
+2023-10-10 13:09:06 INFO  FacebookTest_DDF:33 - login into facebook
+2023-10-10 13:09:09 INFO  FacebookTest_DDF:38 - verify username
+2023-10-10 13:09:19 INFO  FacebookTest_DDF:43 - logout from facebook
+2023-10-10 13:09:27 INFO  FacebookTest_DDF:46 - closing browser
