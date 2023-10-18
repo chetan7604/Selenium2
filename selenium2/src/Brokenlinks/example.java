@@ -1,4 +1,4 @@
-pakage Brokenlinks;
+package Brokenlinks;
 example{
 public static void main(String[]args)
 {
