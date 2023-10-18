@@ -28,7 +28,7 @@ public class FindBrokenLink
 		 
 		 List<WebElement> links = driver.findElements(By.linkText("a"));
 		System.out.println( links.size());
-		Thread.sleep(2000);
+		
 		for(int i=0;i<links.size();i++)
 		{
 			//by using href attribute we can get url of required link
